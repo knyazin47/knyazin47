@@ -1,57 +1,63 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/knyazin47/knyazin47/main/assets/forest-lake-banner.png" alt="Рассвет над лесным озером" width="100%">
-</p>
+<p align="center"><strong>AI PRODUCT ENGINEER</strong></p>
+
+<h1 align="center">Sergey Kiman</h1>
+
+<p align="center"><strong>I turn product goals into working systems — from architecture through validation and delivery.</strong></p>
+
+<p align="center"><code>Python backends</code> · <code>AI-assisted systems</code> · <code>Data pipelines</code> · <code>Telegram products</code> · <code>Web interfaces</code></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1100&amp;color=2F6B3B&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=%D0%98%D0%B4%D0%B5%D1%8F+%E2%86%92+%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF+%E2%86%92+%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B9+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82;AI+Product+Engineer+%C2%B7+Automation+%C2%B7+Linux+Tools;Python+%C2%B7+QML+%C2%B7+Web+%C2%B7+Telegram+Mini+Apps" alt="Профильная строка">
+  <a href="https://sergey.hmara.by/"><img src="https://img.shields.io/static/v1?label=&amp;message=PORTFOLIO&amp;color=4F8E58&amp;style=for-the-badge" alt="Open portfolio"></a>
+  <a href="mailto:knyazin47@gmail.com"><img src="https://img.shields.io/static/v1?label=&amp;message=CONTACT&amp;color=0B100F&amp;style=for-the-badge" alt="Email Sergey"></a>
 </p>
 
-<p align="center">
-  <a href="https://sergey.hmara.by"><img src="https://img.shields.io/badge/ПОРТФОЛИО-2F6B3B?style=for-the-badge&amp;labelColor=1B4332" alt="Сайт-портфолио"></a>
-  <a href="https://t.me/sergeydsc"><img src="https://img.shields.io/badge/TELEGRAM-1B7F7A?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=1B4332" alt="Telegram"></a>
-  <a href="https://github.com/knyazin47?tab=repositories"><img src="https://img.shields.io/badge/ПРОЕКТЫ-B7791F?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=1B4332" alt="Репозитории"></a>
-</p>
+<p align="center">Open to remote roles with stable monthly employment and daily written communication.</p>
 
-## 🌿 Из идеи — в надёжный инструмент
+## Selected work
 
-Я **AI Product Engineer**: превращаю повседневные задачи в понятные и спокойные цифровые продукты — от первого сценария и интерфейса до установки, документации и автоматизации.
+### F-Signal
 
-- **Local-first:** инструменты работают рядом с пользователем и остаются под его контролем.
-- **Продуктовый подход:** не просто код, а ясный путь от первой настройки до ежедневного использования.
-- **Рабочий стол и web:** Linux-виджеты, AI-автоматизация, веб-продукты и Telegram Mini Apps.
+A Telegram Mini App and Python backend for marketplace deal intelligence on Kufar.
 
-## 🍃 GitHub-активность
+- **Problem:** Fresh listings need to be normalized, compared with market baselines, analyzed for risk, matched to purchasing profiles, and delivered through a consistent product state.
+- **Ownership:** Product definition, market research, architecture, Python backend, data pipeline, AI-assisted analysis, authenticated API, Telegram Mini App, deployment, validation, and release boundaries.
+- **Evidence:** The production MVP reached an owner-provided pipeline snapshot dated 2026-07-17: 2,993 stored listings, 2,494 evaluations, 3,258 successful AI analyses, and 555 Telegram notifications. These figures describe pipeline volume and engineering maturity, not traction or revenue.
+- **Links:** [Case study](https://sergey.hmara.by/work/f-signal/) · [Live product](https://fsignal.hmara.by) · [Telegram bot](https://t.me/FSignal_bybot)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=knyazin47&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F4F1E8&amp;title_color=2F6B3B&amp;icon_color=4E7D4A&amp;text_color=344E41&amp;rank_color=B7791F&amp;include_all_commits=true&amp;custom_title=Статистика+GitHub" alt="Статистика GitHub">
-  <img width="49%" src="https://streak-stats.demolab.com?user=knyazin47&amp;hide_border=true&amp;background=F4F1E8&amp;ring=2F6B3B&amp;fire=B7791F&amp;currStreakLabel=2F6B3B&amp;sideLabels=344E41&amp;dates=6B7D6A" alt="Серия активности GitHub">
-</p>
+### Admission Monitor
 
-## 🪴 Основной стек
+A local tool for reasoning about changing university admission tables without presenting uncertain source data as exact.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-2F6B3B?style=for-the-badge&amp;logo=python&amp;logoColor=F4F1E8" alt="Python">
-  <img src="https://img.shields.io/badge/QML-4E7D4A?style=for-the-badge&amp;logo=qt&amp;logoColor=F4F1E8" alt="QML">
-  <img src="https://img.shields.io/badge/Linux-B7791F?style=for-the-badge&amp;logo=linux&amp;logoColor=F4F1E8" alt="Linux">
-  <img src="https://img.shields.io/badge/AI_Automation-1B7F7A?style=for-the-badge&amp;logo=openai&amp;logoColor=F4F1E8" alt="AI Automation">
-  <img src="https://img.shields.io/badge/Telegram_Mini_Apps-52796F?style=for-the-badge&amp;logo=telegram&amp;logoColor=F4F1E8" alt="Telegram Mini Apps">
-</p>
+- **Problem:** University sources use different table layouts and scoring conventions, while source schemas can change without notice.
+- **Ownership:** Parser pipeline, schema validation, priority-cascade model, uncertainty policies, Quickshell interface, observable source states, and rollback-aware installation.
+- **Evidence:** Public, installable source with fail-closed schema checks, visible uncertainty states, demo screenshots, configuration guidance, and a reversible update path.
+- **Links:** [Case study](https://sergey.hmara.by/work/admission-monitor/) · [Source and documentation](https://github.com/knyazin47/admission-monitor-quickshell)
 
-## 🏕️ Избранные проекты
+### Codex Usage
 
-<p align="center">
-  <a href="https://github.com/knyazin47/codex-usage-quickshell">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=knyazin47&amp;repo=codex-usage-quickshell&amp;hide_border=true&amp;bg_color=F4F1E8&amp;title_color=2F6B3B&amp;icon_color=B7791F&amp;text_color=344E41" alt="Codex Usage for Quickshell">
-  </a>
-  <a href="https://github.com/knyazin47/admission-monitor-quickshell">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=knyazin47&amp;repo=admission-monitor-quickshell&amp;hide_border=true&amp;bg_color=F4F1E8&amp;title_color=2F6B3B&amp;icon_color=B7791F&amp;text_color=344E41" alt="Admission Monitor">
-  </a>
-</p>
+A privacy-conscious Quickshell module that turns local Codex session data and rate-limit snapshots into a compact usage panel.
 
-## 🌱 Сейчас в фокусе
+- **Problem:** Usage data arrives from different local sources and at different freshness levels; a number without source state can appear more authoritative than it is.
+- **Ownership:** Data collector, cache and fallback states, privacy controls, QML interface, theme behavior, settings, and installation path.
+- **Evidence:** Public, installable source with live, cached, stale, and local-only states; workspace-name collection is opt-in, and collection pauses when the module is disabled.
+- **Links:** [Case study](https://sergey.hmara.by/work/codex-usage/) · [Source and installation guide](https://github.com/knyazin47/codex-usage-quickshell)
 
-Развиваю полезные Linux-инструменты, AI-автоматизацию и веб-продукты, которые экономят время и делают сложные сценарии понятными.
+## How I work
 
-<p align="center">
-  <sub>Создаю вещи, которыми хочется пользоваться каждый день.</sub>
-</p>
+I work best with a clear outcome, concrete constraints, and responsibility for a complete system or finished product slice. My usual scope connects product logic, architecture, Python and data workflows, interfaces, validation, and delivery.
+
+Building [Hmara](https://hmara.by) and [F-Signal](https://fsignal.hmara.by). This profile, portfolio, and hiring contact represent my individual work and responsibility.
+
+[Portfolio](https://sergey.hmara.by/) · [Telegram](https://t.me/sergeydsc) · [Email](mailto:knyazin47@gmail.com)
+
+## Коротко по-русски
+
+**AI Product Engineer**
+
+> Превращаю продуктовые цели в работающие системы — от архитектуры до проверки и доставки.
+
+`Backend на Python` · `Системы с ИИ` · `Конвейеры данных` · `Telegram-продукты` · `Веб-интерфейсы`
+
+Рассматриваю удалённые роли со стабильной ежемесячной оплатой и ежедневной письменной коммуникацией.
+
+[Портфолио](https://sergey.hmara.by/ru/) · [Telegram](https://t.me/sergeydsc) · [Email](mailto:knyazin47@gmail.com)
