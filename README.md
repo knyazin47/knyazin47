@@ -7,8 +7,7 @@
 <p align="center"><code>Python backends</code> · <code>AI-assisted systems</code> · <code>Data pipelines</code> · <code>Telegram products</code> · <code>Web interfaces</code></p>
 
 <p align="center">
-  <a href="https://sergey.hmara.by/"><img src="https://img.shields.io/static/v1?label=&amp;message=PORTFOLIO&amp;color=4F8E58&amp;style=for-the-badge" alt="Open portfolio"></a>
-  <a href="mailto:knyazin47@gmail.com"><img src="https://img.shields.io/static/v1?label=&amp;message=CONTACT&amp;color=0B100F&amp;style=for-the-badge" alt="Email Sergey"></a>
+  <strong><a href="https://sergey.hmara.by/">PORTFOLIO</a> · <a href="mailto:knyazin47@gmail.com">CONTACT</a></strong>
 </p>
 
 <p align="center">Open to remote roles with stable monthly employment and daily written communication.</p>
