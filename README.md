@@ -12,6 +12,21 @@
 
 <p align="center">Open to remote roles with stable monthly employment and daily written communication.</p>
 
+## Engineering snapshot
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/widgets/selected-evidence-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/widgets/selected-evidence-light.svg">
+    <img src="assets/widgets/selected-evidence-light.svg" width="420" alt="Selected evidence: F-Signal, Admission Monitor, and Codex Usage with their engineering focus">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/widgets/delivery-scope-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/widgets/delivery-scope-light.svg">
+    <img src="assets/widgets/delivery-scope-light.svg" width="420" alt="Delivery scope: architecture, build, validation, and delivery">
+  </picture>
+</p>
+
 ## Selected work
 
 ### F-Signal
